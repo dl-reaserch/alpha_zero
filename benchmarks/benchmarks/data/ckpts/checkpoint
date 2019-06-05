@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\WorkSpace\\Ipython\\smyAlphaZero\\benchmarks\\benchmarks\\data\\ckpts\\az_ckpt-0"
+all_model_checkpoint_paths: "D:\\WorkSpace\\Ipython\\smyAlphaZero\\benchmarks\\benchmarks\\data\\ckpts\\az_ckpt-0"

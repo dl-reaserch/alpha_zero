@@ -1,0 +1,1 @@
+{"az_ckpt_path": "D:\\WorkSpace\\Ipython\\smyAlphaZero\\benchmarks\\benchmarks\\data\\ckpts", "feature_list": ["board"], "class": "PolicyValueNet", "weights_path": "D:\\WorkSpace\\Ipython\\smyAlphaZero\\benchmarks\\benchmarks\\data\\tf_pvnet_weights.hdf5"}
